@@ -1,0 +1,16 @@
+{
+    "name": "fiasco/symfony-console-style-markdown",
+    "description": "A Symfony Console Style extension to support Markdown formatting.",
+    "type": "library",
+    "require": {
+        "symfony/console": "^3.1"
+    },
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Josh Waihi",
+            "email": "joshwaihi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
