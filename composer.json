@@ -12,5 +12,10 @@
             "email": "joshwaihi@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Symfony\\Component\\Console\\Style\\Fiasco\\": "src/"
+        }
+    },
     "minimum-stability": "dev"
 }
