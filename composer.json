@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Symfony\\Component\\Console\\Style\\Fiasco\\": "src/"
+            "Fiasco\\SymfonyConsoleStyleMarkdown\\": "src/"
         }
     },
     "minimum-stability": "dev"
